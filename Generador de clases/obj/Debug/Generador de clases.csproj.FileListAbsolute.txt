@@ -1,0 +1,27 @@
+c:\users\alum11\documents\visual studio 2015\Projects\Generador de clases\Generador de clases\bin\Debug\Generador de clases.exe.config
+c:\users\alum11\documents\visual studio 2015\Projects\Generador de clases\Generador de clases\bin\Debug\Generador de clases.exe
+c:\users\alum11\documents\visual studio 2015\Projects\Generador de clases\Generador de clases\bin\Debug\Generador de clases.pdb
+c:\users\alum11\documents\visual studio 2015\Projects\Generador de clases\Generador de clases\obj\Debug\Generador de clases.csprojResolveAssemblyReference.cache
+c:\users\alum11\documents\visual studio 2015\Projects\Generador de clases\Generador de clases\obj\Debug\Generador_de_clases.Form1.resources
+c:\users\alum11\documents\visual studio 2015\Projects\Generador de clases\Generador de clases\obj\Debug\Generador_de_clases.Properties.Resources.resources
+c:\users\alum11\documents\visual studio 2015\Projects\Generador de clases\Generador de clases\obj\Debug\Generador de clases.csproj.GenerateResource.Cache
+c:\users\alum11\documents\visual studio 2015\Projects\Generador de clases\Generador de clases\obj\Debug\Generador de clases.exe
+c:\users\alum11\documents\visual studio 2015\Projects\Generador de clases\Generador de clases\obj\Debug\Generador de clases.pdb
+D:\Generador de clases\Generador de clases\bin\Debug\Generador de clases.exe.config
+D:\Generador de clases\Generador de clases\obj\Debug\Generador de clases.exe
+D:\Generador de clases\Generador de clases\obj\Debug\Generador de clases.pdb
+D:\Generador de clases\Generador de clases\bin\Debug\Generador de clases.exe
+D:\Generador de clases\Generador de clases\bin\Debug\Generador de clases.pdb
+D:\Generador de clases\Generador de clases\obj\Debug\Generador de clases.csprojResolveAssemblyReference.cache
+D:\Generador de clases\Generador de clases\obj\Debug\Generador_de_clases.Form1.resources
+D:\Generador de clases\Generador de clases\obj\Debug\Generador_de_clases.Properties.Resources.resources
+D:\Generador de clases\Generador de clases\obj\Debug\Generador de clases.csproj.GenerateResource.Cache
+H:\Generador de clases\Generador de clases\bin\Debug\Generador de clases.exe.config
+H:\Generador de clases\Generador de clases\obj\Debug\Generador de clases.exe
+H:\Generador de clases\Generador de clases\obj\Debug\Generador de clases.pdb
+H:\Generador de clases\Generador de clases\bin\Debug\Generador de clases.exe
+H:\Generador de clases\Generador de clases\bin\Debug\Generador de clases.pdb
+H:\Generador de clases\Generador de clases\obj\Debug\Generador de clases.csprojResolveAssemblyReference.cache
+H:\Generador de clases\Generador de clases\obj\Debug\Generador_de_clases.Form1.resources
+H:\Generador de clases\Generador de clases\obj\Debug\Generador_de_clases.Properties.Resources.resources
+H:\Generador de clases\Generador de clases\obj\Debug\Generador de clases.csproj.GenerateResource.Cache
