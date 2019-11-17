@@ -2,7 +2,13 @@
 Generator of C# Class (.cs)<br>
 Built in Windows Forms with C#
 
-# Steps
+# How install
+
+### `git clone` https://github.com/marcosbustamantemateo/ClassGenerator.git
+
+Open with Visual Studio and Compile the solution, in /Generador de clases/bin/debug you will find execute file
+
+# Documentation (steps)
 
 ## First
 
