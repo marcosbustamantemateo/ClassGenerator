@@ -6,7 +6,8 @@ Built in Windows Forms with C#
 
 ### `git clone` https://github.com/marcosbustamantemateo/ClassGenerator.git
 
-Open with Visual Studio and Compile the solution, in /Generador de clases/bin/debug you will find execute file
+Open with Visual Studio and Compile the solution<br>
+In "/Generador de clases/bin/debug/" you will find the execute file
 
 # Documentation (steps)
 
