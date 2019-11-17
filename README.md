@@ -2,9 +2,6 @@
 Generator of C# Class (.cs)<br>
 Built in Windows Forms with C#
 
-
-![alt text](https://github.com/marcosbustamantemateo/ClassGenerator/blob/master/images/Captura.PNG)
-
 # Steps
 
 ## First
@@ -18,4 +15,8 @@ Click "Go Preview"
 ## Third
 
 Click "Generate CS File"
+
+![alt text](https://github.com/marcosbustamantemateo/ClassGenerator/blob/master/images/Captura.PNG)
+
+
 
