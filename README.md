@@ -16,6 +16,10 @@ Click "Go Preview"
 
 Click "Generate CS File"
 
+## End
+
+File will save in Folder "ClasesGeneradas"
+
 ![alt text](https://github.com/marcosbustamantemateo/ClassGenerator/blob/master/images/Captura.PNG)
 
 
